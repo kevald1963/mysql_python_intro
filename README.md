@@ -1,7 +1,7 @@
-# Code Institute
+# MySQL from Python
 
-Welcome USER_NAME,
+This project use the Code Institute's 'gitpod-database-config.git' template to 
+preinstall all of the tools needed to run MySQL with Python.
 
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+Note that the 'mysql-from-python' program uses the Chinook database for it's examples.
+It can be found at https://github.com/lerocha/chinook-database if needed.
